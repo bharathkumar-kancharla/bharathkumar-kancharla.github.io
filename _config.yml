@@ -1,16 +1,13 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
+name: Bharath Kumar Kancharla
+email: bharathkumar.kancharla@gmail.com
+url: 
+description: "Series of blogs to explain the concept of deep learning in various fields like Computer Vision, Natural Learning processing etc.,"
 author: "author"
-title: "BlogFolio"
+title: "Deep Learning World"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /
 
 # social
 github:
-  username: username
-
-twitter:
-  username: username
+  username: bharathkumar-kancharla
